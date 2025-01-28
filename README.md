@@ -22,7 +22,7 @@
 <h2>Configuração</h2>
     <ol>
         <li>Clone o repositório do projeto:</li>
-        <pre><code>git clone &lt;URL_DO_REPOSITORIO&gt;</code></pre>
+        <pre><code>git clone https://github.com/kailanesarah/flix-api.git</code></pre>
         <li>Crie e ative um ambiente virtual:</li>
         <pre><code>
 # Linux/MacOS
