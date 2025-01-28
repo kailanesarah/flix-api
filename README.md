@@ -62,12 +62,12 @@ venv\Scripts\activate
             </tr>
             <tr>
                 <td>DELETE</td>
-                <td>http://127.0.0.1:8000/genres/<int:pk>/</td>
+                <td>http://127.0.0.1:8000/genres/id/</td>
                 <td>Deleta um gênero de filme pelo ID.</td>
             </tr>
             <tr>
                 <td>PUT</td>
-                <td>http://127.0.0.1:8000/genres/<int:pk>/</td>
+                <td>http://127.0.0.1:8000/genres/id/</td>
                 <td>Atualiza um gênero de filme pelo ID.</td>
             </tr>
             
